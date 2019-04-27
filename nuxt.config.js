@@ -7,7 +7,7 @@ export default {
   ** Headers of the page
   */
   head: {
-    title: pkg.name,
+    title: "L'esprit curieux",
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
@@ -27,7 +27,6 @@ export default {
   ** Global CSS
   */
   css: [
-      { rel: 'stylesheet', href: 'https://fonts.googleapis.com/css?family=Lato:100,200,300' }
   ],
 
   /*

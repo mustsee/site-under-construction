@@ -15,7 +15,7 @@
         .title {
             text-transform: uppercase;
             font-size: 25px;
-            font-weight: 200;
+            font-weight: 300;
             @media (min-width: 768px) {
                 font-weight: 100;
                 font-size: 50px;
