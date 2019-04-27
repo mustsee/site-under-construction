@@ -1,8 +1,8 @@
 {
-  "name": "building",
+  "name": "L'esprit curieux",
   "version": "1.0.0",
-  "description": "My mind-blowing Nuxt.js project",
-  "author": "Thomas",
+  "description": "Website in construction",
+  "author": "thomas.sypniewski@gmail.com",
   "private": true,
   "scripts": {
     "dev": "nuxt",

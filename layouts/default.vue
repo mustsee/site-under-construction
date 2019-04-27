@@ -5,6 +5,8 @@
 </template>
 
 <style>
+@import url('https://fonts.googleapis.com/css?family=Lato:100,200');
+
 html {
   font-family: 'Lato', Arial, sans-serif;
   font-size: 16px;
